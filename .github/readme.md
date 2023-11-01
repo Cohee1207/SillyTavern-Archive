@@ -1,4 +1,6 @@
-**main branch is deprecated and won't be updated. Please migrate to the release branch using the instructions: https://docs.sillytavern.app/usage/branches/**
+This is a public archive of old SillyTavern branches, it won't be updated with the new features. Please use the main repository to get the most up-to-date version: https://github.com/SillyTavern/SillyTavern
+
+---
 
 ![image](https://github.com/SillyTavern/SillyTavern/assets/18619528/8c41a061-7f72-4d2b-9d54-e6d058209e7b)
 
